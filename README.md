@@ -53,10 +53,10 @@ We structured the analysis into three phases:
 ---
 
 ## 📌 Business Recommendations
-- **Prioritize retention campaigns** around loyalty points rather than discounts, which are less cost-effective  
-- **Segment customers** by recency and loyalty points to maximize campaign ROI  
-- **Use prescriptive optimization** to allocate budgets more efficiently under financial constraints  
-- **Future work**: include external variables (competitor pricing, food quality) to strengthen prediction  
+- Prioritize retention campaigns around loyalty points rather than discounts, which are less cost-effective  
+- Segment customers by recency and loyalty points to maximize campaign ROI  
+- Use prescriptive optimization to allocate budgets more efficiently under financial constraints  
+- Future work: include external variables (competitor pricing, food quality) to strengthen prediction  
 
 ---
 
