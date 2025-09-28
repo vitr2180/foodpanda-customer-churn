@@ -70,5 +70,5 @@ We structured the analysis into three phases:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOURUSERNAME/foodpanda-churn-analysis.git
+   git clone https://github.com/vitr2180/foodpanda-churn-analysis.git
    cd foodpanda-churn-analysis
