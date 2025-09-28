@@ -47,8 +47,8 @@ We structured the analysis into three phases:
   - Indicates churn may depend on external factors not in the dataset (e.g., competition, food quality)  
 
 - **Campaign Optimization**:  
-  - Budget of **25k gave the best ROI per cost unit**  
-  - Loyalty points were the **most effective retention lever** compared to discounts or free delivery  
+  - Budget of 25k gave the best ROI per cost unit  
+  - Loyalty points were the most effective retention lever compared to discounts or free delivery  
 
 ---
 
